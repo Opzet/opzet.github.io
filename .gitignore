@@ -1,0 +1,12 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/opzet.github.io/CopilotIndices/17.13.92.3300
+/.vs/opzet.github.io/DesignTimeBuild
+/.vs/opzet.github.io/FileContentIndex
+/.vs/opzet.github.io/v17
+/.vs
+/TicTacToe/.vs/TicTacToe
+/TicTacToe/obj
+/TicTacToe/Solution ItemsError2024-12-26.log
